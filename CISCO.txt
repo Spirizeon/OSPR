@@ -1,0 +1,68 @@
+CISCO Junior Cybersecurity Analyst Certification
+--
+* Organisational data
+** Types of organisational data
++ trade data, operations data (Transactional)
++ Patents, trademarks, plans of products (Intellectual)
++ balance sheets, income statements (Financial)
+
+* The McCumber Cube
+** 1st dimension
+*** Basic principles for Info systems protection
++ Confidentiality
++ Integrity (ensuring modding-protection (hashing))
++ Availibility (Only auth users granted access)
+** 2nd dimension
+*** Protection of information in each of its states
++ Data in process
++ Data in storage
++ Data in travel
+** 3rd dimension
+*** Security measures used for protection
++ Awareness, training
++ Technology (software, firewall)
++ Policy and procedure
+
+* Consequences of a security breach
+
+NIST practices
+---
+Perform a risk assessment
+Create a security policy
+Physical security measures
+Human resources security measures
+Perform and test backups
+Maintain security patches and updates
+Employ access controls
+Regularly test incident response
+Implement a network monitorning analytics and management tool
+Implement network security devices
+Implement a comprehensive endpoint security solution (antimalware)
+Encrypt data
+
+Types of firewalls
+---
+Network layer firewall (IP-based)
+Transport layer firewall (port-based)
+Application layer firewall (Application-based)
+Context aware layer firewall (user/device-based)
+Proxy server (web-server based)
+Reverse proxy server 
+Network address Translation (NAT) Firewall (prevents leakage of IP)
+Host based-firewall (on-host firewall)
+
+Security playbook
+---
+Identify and automate response to threats
+describe in-going and out-going traffic
+trends, statitics,counts
+quick access to statistics and metric
+correlate events across all relevant data sources
+
+System information & Event management (SIEM) system
+---
+collects and analyzes (alerts, logs, real-time/historical data)
+
+Data loss prevention system
+---
+stops leakage/takeaway of sensitive data
