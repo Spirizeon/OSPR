@@ -55,8 +55,11 @@ Thank you for your interest in the Open Sourced Personal Resources (OSPR) reposi
 + Linux basics for Hackers - OccupyTheWeb 🔵🟡
 + [@missing-semester](https://github.com/missing-semester)🔵🟡
 + [DevOps with Docker](https://devopswithdocker.com) 🔵🟡🔴
++ [Docker-curriculum](https://docker-curriculum.com/) 🔵
 + [TYCS book repository](https://teachyourselfcs.com/) 🟡🔴
 + [A First Course on Data Structures in Python - Donsheehy](https://donsheehy.github.io/datastructures/) 🔵🟡
 + [Dive into systems](https://diveintosystems.org/book/) 🔵🟡🔴
 + [@ossu](https://github.com/ossu) 🔵🟡🔴
 + [Composing programs - John DeNero](https://www.composingprograms.com/) 🟡
++ [Pro Git](https://git-scm.com/book/en/v2) 🔵🟡🔴
++ [How to contribute - Open Source](https://opensource.guide/how-to-contribute/) 🔵🟡🔴
