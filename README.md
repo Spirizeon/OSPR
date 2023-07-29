@@ -61,5 +61,5 @@ Thank you for your interest in the Open Sourced Personal Resources (OSPR) reposi
 + [Dive into systems](https://diveintosystems.org/book/) 🔵🟡🔴
 + [@ossu](https://github.com/ossu) 🔵🟡🔴
 + [Composing programs - John DeNero](https://www.composingprograms.com/) 🟡
-+ [Pro Git](https://git-scm.com/book/en/v2) 🔵🟡🔴
++ [Pro Git - Apress](https://git-scm.com/book/en/v2) 🔵🟡🔴
 + [How to contribute - Open Source](https://opensource.guide/how-to-contribute/) 🔵🟡🔴
