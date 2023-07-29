@@ -9,6 +9,7 @@ Welcome to the Open Sourced Personal Resources (OSPR) repository! This repositor
 
 - [About OSPR](#about-ospr)
 - [How to Contribute](#how-to-contribute)
+- [Resource list](#resource-list)
 
 ## About OSPR
 
