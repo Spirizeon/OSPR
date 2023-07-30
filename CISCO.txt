@@ -66,3 +66,70 @@ collects and analyzes (alerts, logs, real-time/historical data)
 Data loss prevention system
 ---
 stops leakage/takeaway of sensitive data
+
+Internet Standard
+---
+all devices connecting to the network implement the same set of rules or protocols in the same manner
+
+Release of new standards
+---
+Every stage recorded in RFC
+RFCs published and managed by IETF
+
+Internet Engineering Task Force (IETF) 
+Internet Assigned Numbers Authority (IANA)
+Internet Corporation for Assigned Names and Numbers (ICANN)
+Institute of Electircal and Electronics Engineering
+
+Layered Models
+---
+Visualise how various protocols work in symphony for network communication
+visualisation multiple protocols 
+
+Protocol models
+---
+set of protocols 
+protocols are layers
+
+Reference models
+---
+Functions that must be completed at a particular layer
+set of protocols in one layer to acheive layer name
+
+Open systems interconnections (OSI)
+made by
+International Organization for Standardization (ISO)
+
+
+Application
+Presentation
+Session
+Transport
+Network
+Data link
+Physical
+
+OSI Vs. TCP/IP
+---
+TCP/IP model describes the networking functions specific to those protocols in use in the TCP/IP protocol suite.
+The functions that occur at the internet layer in the TCP/IP model are contained in the network layer of the OSI Model
+
+TCP/IP Application
+---
+OSI application
+OSI presentation
+OSI session
+
+TCP/IP Transport
+---
+OSI Transport (special sole)
+
+TCP/IP Internet
+---
+OSI network (special sole)
+
+TCP/IP Network access
+--- 
+Data link
+Physical
+
