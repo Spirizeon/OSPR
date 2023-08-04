@@ -63,3 +63,5 @@ Thank you for your interest in the Open Sourced Personal Resources (OSPR) reposi
 + [Composing programs - John DeNero](https://www.composingprograms.com/) 🟡
 + [Pro Git - Apress](https://git-scm.com/book/en/v2) 🔵🟡🔴
 + [How to contribute - Open Source](https://opensource.guide/how-to-contribute/) 🔵🟡🔴
++ [Shell Scripting - Steve Parker](https://www.shellscript.sh/) 🔵
++ [Computer Networking: Top-Down approach - Jim Kurose](https://beta.computer-networking.info/syllabus/default/index.html) 🔵🟡🔴
