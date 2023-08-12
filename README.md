@@ -53,6 +53,7 @@ Thank you for your interest in the Open Sourced Personal Resources (OSPR) reposi
 
 + CLRS book - Intro to Algorithms 🔵🟡🔴
 + Linux basics for Hackers - OccupyTheWeb 🔵🟡
++ [RegexLearn](https://regexlearn.com/)🔵🟡
 + [@missing-semester](https://github.com/missing-semester)🔵🟡
 + [DevOps with Docker](https://devopswithdocker.com) 🔵🟡🔴
 + [Docker-curriculum](https://docker-curriculum.com/) 🔵
