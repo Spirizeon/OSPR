@@ -157,4 +157,17 @@ Transmission medium
 Fibre Optic is used in network backbones
 Coaxial is used for connecting satellite parts
 
+Private Addresses (RFC 1918 Ranges)
+10.0.0.0 --> 10.255.255.255
+172.16.0.0 --> 172.31.255.255
+192.168.0.0 --> 192.168.255.255
+
+Private Address --> Public Address (through Network Address Translation)
+
+IP Address classes
+Class A --> N.H.H.H
+Class B --> N.N.H.H
+Class C --> N.N.N.H
+Class D --> Multicast
+Class E --> Reserved
 
