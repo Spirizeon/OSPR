@@ -124,12 +124,37 @@ TCP/IP Transport
 ---
 OSI Transport (special sole)
 
-TCP/IP Internet
+TCP/IP Internet/Network
 ---
 OSI network (special sole)
+
+TCP/IP Network Access
+---
+Datalink
+Physical
 
 TCP/IP Network access
 --- 
 Data link
 Physical
+
+Ethernet frame elements:
+---
+Preamble
+Start Frame Delimiter (SFD)
+Destination MAC Address
+Source MAC Address
+Lenght Type
+DATA (46-1500 bytes)
+Frame check sequence 
+
+
+Common factors in all communication methods:
+MSG source
+MSG dest.
+Transmission medium
+
+Fibre Optic is used in network backbones
+Coaxial is used for connecting satellite parts
+
 
