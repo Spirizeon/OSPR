@@ -173,3 +173,5 @@ Class E --> Reserved
 
 In IPv4, R.R.R.R/R
 where /R says how many bits are used to denote the IP Address
+
+IANA allocated IP Addresses, and distributes them to RIRs, then they're distributed to ISPs
