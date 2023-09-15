@@ -50,7 +50,7 @@ Thank you for your interest in the Open Sourced Personal Resources (OSPR) reposi
 
 ## Resource list
 
-
++ [Flutter for beginners - Alessandro Biessek](https://www.packtpub.com/product/flutter-for-beginners/9781788996082)
 + CLRS book - Intro to Algorithms 🔵🟡🔴
 + Linux basics for Hackers - OccupyTheWeb 🔵🟡
 + [RegexLearn](https://regexlearn.com/)🔵🟡
