@@ -171,3 +171,5 @@ Class C --> N.N.N.H
 Class D --> Multicast
 Class E --> Reserved
 
+In IPv4, R.R.R.R/R
+where /R says how many bits are used to denote the IP Address
