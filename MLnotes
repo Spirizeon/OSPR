@@ -1,0 +1,12 @@
+DATA MINING (often deals with structured data)
+finding patterns between data points
+SEMANTIC IMAGE SEGMENTATION
+- split image into pixels
+- convert info pixels --> class (with pixel coordinates, color combination
+PATTERN RECOGNITION (deals with anytype of data)
+- find trends between data points
+DIMENSIONALITY REDUCTION
+- reduce features by merging common features according to trends
+ANOMALY DETECTION
+- Detecting outliers 
+Association rule learning
