@@ -10,3 +10,100 @@ DIMENSIONALITY REDUCTION
 ANOMALY DETECTION
 - Detecting outliers 
 Association rule learning
+
+Course Title: Deep Learning: Getting Started
+
+Description: Deep learning as a technology has grown leaps and bounds in the last few years. More and more AI solutions use deep learning as their foundational technology. Studying this technology, however, has several challenges. Most learning resources are math-heavy and are difficult to navigate without good math skills. IT professionals need a simplified resource to learn the concepts and build models quickly. This course aims to provide a simplified path to studying the basics of deep learning and becoming productive quickly. Instructor Kumaran Ponnambalam starts off with an intro to deep learning, including artificial neural networks and architectures. He navigates through various building blocks of neural networks with simple and easy to understand explanations. Kumaran also builds code in Keras to implement these building blocks. He then pulls it all together with an end-to-end exercise. Finally, test what you learned with a deep learning problem and compare your solution with Kumaran’s.
+
+
+***********************************************
+Chapter: 3. Training a Neural Network
+***********************************************
+
+
+-----------------------------------------------
+Video: Measuring accuracy and error
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:02:05            Cost function helps estimate error between actual and predicted output 
+
+0:02:11            Forward Propagation: The purpose of forward propagation is to make predictions or compute the output of the neural network given input data. It involves passing data through the network's layers from input to output.
+    Backward Propagation (Backpropagation): Backward propagation is used to update the model's parameters (weights and biases) during training. It calculates how much each parameter should be adjusted to minimize the prediction error. 
+
+
+-----------------------------------------------
+Video: Back propagation
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:00:41            a node is a contributor of output 
+
+0:01:07            backward propagation works reverse of forward propagation
+it computes error differences and adjusts weights and biases in the layer 
+
+
+-----------------------------------------------
+Video: Gradient descent
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:00:50            Gradient descent process is an algorithm
+- Forward propagation
+- Estimate error
+- backward propagation
+- adjust weights and biases 
+
+
+-----------------------------------------------
+Video: Batches and epochs
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:01:11            Epoch - number of times the entire training set is sent through the ANN 
+
+
+-----------------------------------------------
+Video: Validation and testing
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:00:01            Batch size and epochs are hyperparameters 
+
+
+-----------------------------------------------
+Video: An ANN model
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:00:00            Validation data is a step to adjust hyperparameters 
+
+0:00:39            Parameters are weights and biases 
+
+0:00:44            Hyperparameters: number of layers, nodes,activation function, cost function, learning rate, optimizers, batch size, epoch 
+
+
+***********************************************
+Chapter: 4. Deep Learning Example 1
+***********************************************
+
+
+-----------------------------------------------
+Video: Saving and loading models
+-----------------------------------------------
+Note Time:         Note Text:                     
+
+0:00:24            Onehot encoding helps make categorical data differentiative 
+
+0:00:24            Scaling helps the neural network by making sure all input features have a similar scale. 
+
+0:00:24            Numpy arrays are more memory efficient and easily integrate with low-level languages like C 
+
+0:00:24            one-hot encoding 
+    Create a unique number for each category: Assign a different number to each fruit. For example, 1 for apples, 2 for bananas, and 3 for oranges.
+
+    Create a binary vector: Next, you create a binary vector (a series of 0s and 1s) with as many slots as there are categories. In this case, you'd have three slots because there are three fruits. So, you might start with [0, 0, 0].
+
+    Set the corresponding slot to 1: For each fruit, you set the slot in the vector that corresponds to its unique number to 1. For example, since apples are represented by 1, you'd change the first slot to 1: [1, 0, 0]. For bananas (2), you'd set the second slot to 1: [0, 1, 0]. And for oranges (3), you'd set the third slot to 1: [0, 0, 1]. 
+
+
