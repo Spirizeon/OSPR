@@ -67,3 +67,8 @@ Thank you for your interest in the Open Sourced Personal Resources (OSPR) reposi
 + [Shell Scripting - Steve Parker](https://www.shellscript.sh/) 🔵
 + [Computer Networking: Top-Down approach - Jim Kurose](https://beta.computer-networking.info/syllabus/default/index.html) 🔵🟡🔴
 + [Mastering Git - Jakub Narębski , Jakub S Narebski](https://www.packtpub.com/product/mastering-git/9781783553754) 🟡🔴
++ [Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems - Geron Aurelien] 🟡🔴
++ [The Hundred-page Machine Learning Book - Book by Andriy Burkov] 🔵🟡🔴
++ [Stanford CS229 Lecture Notes - Andrew Ng](https://cs229.stanford.edu/main_notes.pdf) 🔵🟡🔴
+
+
