@@ -63,5 +63,7 @@ Thank you for your interest in the Open Sourced Personal Resources (OSPR) reposi
 + Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems - Geron Aurelien🟡🔴
 + The Hundred-page Machine Learning Book - Book by Andriy Burkov 🔵🟡🔴
 + [Stanford CS229 Lecture Notes - Andrew Ng](https://cs229.stanford.edu/main_notes.pdf) 🔵🟡🔴
++ [React documentation for beginners](https://react.dev/learn)🔵🟡🔴
++ [React tutorials for beginners](https://scrimba.com/learn/learnreact)🔵🟡🔴
 
 
