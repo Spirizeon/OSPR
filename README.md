@@ -68,6 +68,7 @@ Thank you for your interest in the Open Sourced Personal Resources (OSPR) reposi
 + [Pandas for beginners and Intermediates](https://youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy&si=n3y3GaR1q3NauF9h)🔵🟡
 + Deep Learning - A practitioner's approach - Oreilly 🔵🟡🔴
 + [BSCS3004 Deep Learning Resources](https://github.com/DotSlash-A/BSCS3004-Deep-Learning-resources)🔵🟡🔴
++ [MIT 18.06 Linear Algebra, Spring 2005 (to start with with ML)](https://youtube.com/playlist?list=PLE7DDD91010BC51F8&si=ze0Lci5yDzbsH-jE)🔵🟡🔴
 
 ## Youtube tutorials
 - [HTTP Requests in python](https://www.youtube.com/watch?v=tb8gHvYlCFs)
