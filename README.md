@@ -65,9 +65,10 @@ Thank you for your interest in the Open Sourced Personal Resources (OSPR) reposi
 + [Stanford CS229 Lecture Notes - Andrew Ng](https://cs229.stanford.edu/main_notes.pdf) 🔵🟡🔴
 + [React documentation for beginners](https://react.dev/learn)🔵🟡🔴
 + [React tutorials for beginners](https://scrimba.com/learn/learnreact)🔵🟡🔴
-+ [Pandas for beginners and Intermediates](https://youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy&si=n3y3GaR1q3NauF9h)🔵🟡
++ [Pandas for beginners and Intermediates(tutorials in parts)](https://youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy&si=n3y3GaR1q3NauF9h)🔵🟡
 + Deep Learning - A practitioner's approach - Oreilly 🔵🟡🔴
 + [BSCS3004 Deep Learning Resources](https://github.com/DotSlash-A/BSCS3004-Deep-Learning-resources)🔵🟡🔴
++ [Pandas for intermediate with new terms](https://youtu.be/_Eb0utIRdkw?si=lz2fh7qh5O4ii-0w)🟡
 
 ## Youtube tutorials
 - [HTTP Requests in python](https://www.youtube.com/watch?v=tb8gHvYlCFs)
