@@ -67,7 +67,13 @@ Thank you for your interest in the Open Sourced Personal Resources (OSPR) reposi
 + [React tutorials for beginners](https://scrimba.com/learn/learnreact)🔵🟡🔴
 + [Pandas for beginners and Intermediates](https://youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy&si=n3y3GaR1q3NauF9h)🔵🟡
 + [Explaination of Backend(Networking)](https://youtu.be/vtYdBaXjysU?si=IJBaAF6ArX5XN3Wv)🔵🟡
-
 # Youtube Tutorials
 + [Express js](https://youtu.be/pKJ4GGyDgJo?si=HXBmpJeFA9MTNhdV)🔵🟡🔴
++ Deep Learning - A practitioner's approach - Oreilly 🔵🟡🔴
++ [BSCS3004 Deep Learning Resources](https://github.com/DotSlash-A/BSCS3004-Deep-Learning-resources)🔵🟡🔴
+## Youtube tutorials
+- [HTTP Requests in python](https://www.youtube.com/watch?v=tb8gHvYlCFs)
+- [Python Flask playlist](https://www.youtube.com/watch?v=MwZwr5Tvyxo&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
+- [APIs for beginners](https://www.youtube.com/watch?v=WXsD0ZgxjRw)
+- [Postman Beginner's course](https://www.youtube.com/watch?v=VywxIQ2ZXw4) 
 
