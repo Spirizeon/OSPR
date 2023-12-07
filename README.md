@@ -77,4 +77,4 @@ Thank you for your interest in the Open Sourced Personal Resources (OSPR) reposi
 - [APIs for beginners](https://www.youtube.com/watch?v=WXsD0ZgxjRw)
 - [Postman Beginner's course](https://www.youtube.com/watch?v=VywxIQ2ZXw4)
 - [Java begiiner tutorials 2023](https://www.youtube.com/watch?v=bm0OyhwFDuY&list=PLsyeobzWxl7pe_IiTfNyr55kwJPWbgxB5)
-
+- [Best Flask tutorial online](https://www.youtube.com/watch?v=0Qxtt4veJIc&list=PLCC34OHNcOtolz2Vd9ZSeSXWc8Bq23yEz)
